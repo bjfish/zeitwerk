@@ -14,3 +14,5 @@ matrix:
     - rvm: jruby-head
     - rvm: truffleruby-head
     - rvm: truffleruby
+env:
+  - MT_CPU=1
